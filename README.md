@@ -23,7 +23,7 @@ Zunächst müssen wir Python, pip und Whisper installieren. Das ist ein einmalig
 
 ### Python 
 
-* Unter https://www.python.org/downloads/ die letzte Python-Version herunterladen und installieren.
+Unter https://www.python.org/downloads/ die letzte Python-Version herunterladen und installieren.
 
 #### Verifizierung der Python Installation
 
