@@ -4,7 +4,22 @@ Version 01 - 14.02.2024
 
 Die folgende Anleitung ist aktuell nur für Macs getestet.
 
+* [Whisper Anleitung](#whisper-anleitung)
+    * [Installationen](#installationen)
+        * [Python](#python)
+            * [Verifizierung der Python Installation](#verifizierung-der-python-installation)
+        * [PIP](#pip)
+            * [Verifizierung der pip Installation](#verifizierung-der-pip-installation)
+        * [Whisper](#whisper)
+            * [Verifizierung der Whisper Installation](#verifizierung-der-whisper-installation)
+    * [Benutzung Whisper](#benutzung-whisper)
+        * ["Ort" Im Terminal](#ort-im-terminal)
+        * [Whisper Ausführen](#whisper-ausführen)
+
+
 ## Installationen
+
+Zunächst müssen wir Python, pip und Whisper installieren. Das ist ein einmaliger Schritt.
 
 ### Python 
 
@@ -142,7 +157,7 @@ options:
 ```
 
 
-Jetzt haben wir alle benötigen, einmaligen Installationen und können Whisper verwenden.
+Jetzt haben wir alles relevante installiert und können Whisper verwenden.
 
 
 ## Benutzung Whisper 
