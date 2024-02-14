@@ -29,7 +29,7 @@ Unter https://www.python.org/downloads/ die letzte Python-Version herunterladen 
 
 Um sicherzustellen, dass ein Kommandozeilen-Befehl, wie z.B. für Python, korrekt installiert worden ist, kann man sich die Version des zugrunde liegenden Programms anzeigen lassen. Wenn die Version angezeigt wird, ist alles gut, ansonsten gibt es einen Fehler in Richtung "command not found".
 
-Um die gerade installierte Python-Version anzeigen zu lassen, den Terminal öffnen und folgende Zeile eintippen oder kopieren und zum Ausführen *Enter* drücken:
+Um die gerade installierte Python-Version anzeigen zu lassen, den Terminal öffnen und folgende Zeile eintippen oder kopieren und zum Ausführen `Enter` drücken:
 
 ```
 python3 --version
@@ -53,7 +53,7 @@ pip3 --version
 
 Nun können wir mit `pip` das [Whisper Paket](https://github.com/openai/whisper/tree/main?tab=readme-ov-file) installieren. Wir installieren Whisper global, was heißt, dass es erst einmal egal ist, in welchem Ordner wir uns im Terminal befinden.
 
-Dafür im Terminal die folgende Zeile eintippen oder kopieren und zum Ausführen *Enter* drücken:
+Dafür im Terminal die folgende Zeile eintippen oder kopieren und zum Ausführen `Enter` drücken:
 
 ```
 pip3 install -U openai-whisper
@@ -66,7 +66,7 @@ Die Ausführung dauert einen kleinen Moment und im Terminal sollte der Installat
 Die Macher von Whisper habe die Ausgabe einer Programmversion nicht implementiert, der Befehl `whisper --version` funktioniert somit nicht. Alternativ, können wir die korrekte Installation mit dem Parameter `--help` überprüfen. `--help` beschreibt einen Befehl und gibt alle vorhandenen Optionen an.
 
 
-Die folgende Zeile eintippen oder kopieren und zum Ausführen *Enter* drücken:
+Die folgende Zeile eintippen oder kopieren und zum Ausführen `Enter` drücken:
 
 ```
 whisper --help
