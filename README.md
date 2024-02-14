@@ -164,7 +164,7 @@ Jetzt haben wir alles relevante installiert und können Whisper verwenden.
 
 ### "Ort" Im Terminal
 
-Im Terminal ist man immer an einer bestimmten Stelle in der Ordnerstruktur des Rechners. Alle Befehle, die man im Terminal ausführt, beziehen sich auf die Stelle in der Ordnerstruktur, an der man sich gerade befindet. Das kann man sich wie eine andere Art der Anzeige des Finders vorstellen, der auch immer eine "bestimme Stelle" in der Ordnerstruktur des Rechners anzeigt.
+Im Terminal ist man immer an einer bestimmten Stelle in der Ordnerstruktur des Rechners. Alle Befehle, die man im Terminal ausführt, beziehen sich auf die Stelle in der Ordnerstruktur, an der man sich gerade befindet. Das kann man sich wie eine andere Art der Anzeige des Finders vorstellen. Der Finder stellt auch immer eine "bestimme Stelle" in der Ordnerstruktur des Rechners dar.
   
 Mit `pwd` kann man sich den aktuellen "Ort", also das Verzeichnis, in dem man sich mit dem Termin befindet, anzeigen lassen. Nach dem ersten Öffnen des Terminals ist der Ort vermutlich etwas Entsprechendes zu `/Users/legie`.
 
