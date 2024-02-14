@@ -185,7 +185,7 @@ Test, ob alles gut gegangen ist: `pwd` gibt `~/Documents/filmuni/01_project/whis
 Alternativ zum Eintippen des Pfads kann man `cd` im Terminal eintippen (ohne Enter zu drücken!) und dann den Ordner, zu dem man navigieren möchte, per Drag-and-drop aus dem Finder als Pfad angeben. Also
 
 * `cd`
-* Dann Ordner, in den man möchte, aus dem Finder in den Terminal ziehen. Dadurch wird der Befehl zu  
+* Dann den Ordner, in dem man arbeiten möchte, aus dem Finder in den Terminal ziehen. Dadurch wird der Befehl zu  
   **`cd ~/Documents/filmuni/01_project/whisper`**
 * Enter
 
