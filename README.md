@@ -63,7 +63,7 @@ Die Ausführung dauert einen kleinen Moment und im Terminal sollte der Installat
 
 #### Verifizierung der Whisper Installation
 
-Die Macher von Whisper habe die Ausgabe einer Programmversion nicht implementiert, der Befehl `whisper --version` funktioniert somit nicht. Alternativ, können wir die korrekte Installation mit dem Parameter `--help` überprüfen. `--help` beschreibt einen Befehl und gibt alle vorhandenen Optionen an.
+Die Macher:innen von Whisper habe die Ausgabe einer Programmversion nicht implementiert, der Befehl `whisper --version` funktioniert somit nicht. Alternativ, können wir die korrekte Installation mit dem Parameter `--help` überprüfen. `--help` beschreibt einen Befehl und gibt alle vorhandenen Optionen an.
 
 
 Die folgende Zeile eintippen oder kopieren und zum Ausführen `Enter` drücken:
