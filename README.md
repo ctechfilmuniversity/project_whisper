@@ -172,7 +172,7 @@ Nun wollen wir den Ort wechseln, um in dem Ordner zu arbeiten, wo unsere Audioda
 
 In welchem Ordner man genau arbeiten möchte, ist frei wählbar. Ihr müsst nur den Pfad zum Ordner wissen, z.B. `~/Documents/filmuni/01_project/whisper/`.
 
-Um in diesen Ordner zu wechseln, verwenden wir den Befehl `cd` (change directory). Mit `cd` nimmt als Argument, also als Wert, den man nach dem Befehle selbst (`cd`) angeben muss, den Pfad zu dem Ort (also Verzeichnis) zu dem man wechseln möchte.
+Um in diesen Ordner zu wechseln, verwenden wir den Befehl `cd` (change directory). `cd` nimmt als Argument, also als Wert, den man nach dem Befehle selbst (`cd`) angeben muss, den Pfad zu dem Ort (also Verzeichnis) zu dem man wechseln möchte.
 
 Zum Beispiel, aktuell befinde ich mich im Terminal in `/Users/legie` (mit `pwd` angezeigt). Nun kann man mit folgendem Befehl in den gewünschten Ordner wechseln"
 
