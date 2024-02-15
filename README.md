@@ -194,7 +194,7 @@ Alternativ zum Eintippen des Pfads kann man `cd` im Terminal eintippen (ohne Ent
 
 Die folgende Beschreibung geht davon aus, dass die zu transkribierende Audiodatei in dem Ordner liegt, in dem man sich im Terminal befindet. Alles andere würde zu einem Fehler führen. Z.B. in `~/Documents/filmuni/01_project/whisper` gibt es die Datei `Int_8-2_DS.m4a`.
 
-Als ersten Test verwenden wir whisper mit den Voreinstellung. Dafür den Befehl `whisper` mit dem Namen der Audiodatei als Argument ausführen, z.B.:
+Als ersten Test verwenden wir whisper mit den gegebenen Voreinstellungen. Dafür den Befehl `whisper` mit dem Namen der Audiodatei als Argument ausführen, z.B.:
 
 ```
 whisper Int_8-2_DS.m4a
