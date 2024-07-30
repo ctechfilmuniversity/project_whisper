@@ -1,6 +1,6 @@
 # Anleitung Whisper Installation mit Homebrew 
 
-Version 01 - 14.02.2024
+Version 01 - 20.07.2024
 
 Die folgende Anleitung ist aktuell nur für Macs getestet.
 
