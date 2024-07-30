@@ -1,29 +1,35 @@
-# Whisper Anleitung
+# Anleitung Whisper Installation mit Homebrew 
 
 Version 01 - 14.02.2024
 
 Die folgende Anleitung ist aktuell nur für Macs getestet.
 
-- [Whisper Anleitung](#whisper-anleitung)
-  - [Installationen](#installationen)
-    - [Homebrew](#homebrew)
-      - [Verifizierung der Homebrew Installation](#verifizierung-der-homebrew-installation)
-    - [Python](#python)
-      - [Verifizierung der Python Installation](#verifizierung-der-python-installation)
-    - [Whisper](#whisper)
-      - [Verifizierung der Whisper Installation](#verifizierung-der-whisper-installation)
-  - [Benutzung Whisper](#benutzung-whisper)
-    - ["Ort" Im Terminal](#ort-im-terminal)
-    - [Whisper Ausführen](#whisper-ausführen)
+* [Anleitung Whisper Installation mit Homebrew](#anleitung-whisper-installation-mit-homebrew)
+    * [Installationen](#installationen)
+        * [Homebrew](#homebrew)
+            * [Verifizierung der Homebrew Installation](#verifizierung-der-homebrew-installation)
+        * [Python](#python)
+            * [Verifizierung der Python Installation](#verifizierung-der-python-installation)
+        * [Whisper](#whisper)
+            * [Verifizierung der Whisper Installation](#verifizierung-der-whisper-installation)
+    * [Benutzung Whisper](#benutzung-whisper)
+        * ["Ort" Im Terminal](#ort-im-terminal)
+        * [Whisper Ausführen](#whisper-ausführen)
 
 
 ## Installationen
 
 Zunächst müssen wir Homebrew, Python und Whisper installieren. Das ist ein einmaliger Schritt.
 
-### Homebrew 
+### [Homebrew](https://brew.sh/de/) 
 
-Homebrew ist ein Paketmanager für MacOS. Da Apple Macs bis macOS Monetery 12.3 mit einer vorinstallierten Python 2.7 Version ausgeliefert hat, hilft Homebrew ein zentrales System zu schaffen um auf eine bestimmte, die aktuellste, Python-Version zu zugreifen.
+[Homebrew ist ein Paketmanager für MacOS](https://de.wikipedia.org/wiki/Homebrew_(Paketverwaltung)). 
+
+> Eine Paketverwaltung (englisch package management software) ermöglicht die komfortable Verwaltung von Software, die in Form von Programmpaketen vorliegt. Dazu gehören Installieren, Aktualisieren und Deinstallieren. - [Wiki](https://de.wikipedia.org/wiki/Paketverwaltung)
+
+Für Nutzer:innen, die z.B. in selbst geschriebener Software auf viele andere Programmpakte zugreifen oder häufig Software ohne ein Interface für die Installation verwenden, ist die Nutzung von einem Paketmanager zwingend notwendig, um Ordnung zu halten. Für *casual user* ist eine strukturierte Paketverwaltung nicht unbedingt notwendig, stört aber auch nicht ;). 
+
+Wir nutzen Homebrew für die Whisper Installation um auf eine bestimmte, in diesem Fall die aktuellste, Python-Version zu zugreifen. Ältere Macs (bis macOS Monetery 12.3) sind mit einer vorinstallierten Python Version (2.7) ausgeliefert, die mit Whisper nicht funktioniert.
 
 Um Homebrew zu installieren, werden zuerst die Command Line Tools von XCode benötigt.
 
@@ -233,5 +239,4 @@ whisper Int_8-2_DS.m4a
 
 Enter drücken und warten, bis die Berechnungen fertig sind (das kann etwas dauern). Im Terminal wird der Prozess textuell dokumentiert - was man ignorieren kann. Wenn das Ausführen fertig ist, erscheint im Terminal eine neue, leere Zeile, bereit für weitere Befehle. Danach sollten im Ordner selbst die verschiedenen Transkiptionsdateien liegen.
 
-*To be continued...*
 

@@ -1,10 +1,10 @@
-# Whisper Anleitung
+# Anleitung Whisper Installation
 
 Version 01 - 14.02.2024
 
 Die folgende Anleitung ist aktuell nur für Macs getestet.
 
-* [Whisper Anleitung](#whisper-anleitung)
+* [Anleitung Whisper Installation](#anleitung-whisper-installation)
     * [Installationen](#installationen)
         * [Python](#python)
             * [Verifizierung der Python Installation](#verifizierung-der-python-installation)
@@ -202,5 +202,4 @@ whisper Int_8-2_DS.m4a
 
 Enter drücken und warten, bis die Berechnungen fertig sind (das kann etwas dauern). Im Terminal wird der Prozess textuell dokumentiert - was man ignorieren kann. Wenn das Ausführen fertig ist, erscheint im Terminal eine neue, leere Zeile, bereit für weitere Befehle. Danach sollten im Ordner selbst die verschiedenen Transkiptionsdateien liegen.
 
-*To be continued...*
 
